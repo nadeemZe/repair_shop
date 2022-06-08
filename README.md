@@ -2,15 +2,20 @@
 
 A new Flutter project.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+u can create repair with description and photos beside other details ... chat with repair man and many features.
 
-A few resources to get you started if this is your first Flutter project:
+*Clean architecture.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+*Abstraction.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+*Dependency injection.
+
+*cashe memory.
+
+*real time chatting.
+
+## To see other projects developed by me :
+
+- [Portfolio](https://nadeemze.github.io/Portfolio/)
