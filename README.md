@@ -6,8 +6,6 @@ A new Flutter project.
 
 u can create repair with description and photos beside other details ... chat with repair man and many features.
 
-*Clean architecture.
-
 *Abstraction.
 
 *Dependency injection.
